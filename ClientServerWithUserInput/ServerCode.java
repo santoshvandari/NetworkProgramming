@@ -18,7 +18,7 @@ class ServerCode{
                 System.out.println("Client : "+clientmsg);
                 System.out.print("Enter a Message(e for Exit): ");
                 servermsg=sc.nextLine();
-                if (servermsg=="E" || servermsg=="e"){
+                if (clientmsg.equalsIgnoreCase("e") || servermsg.equalsIgnoreCase("e")){
                     break;
                 }
                 System.out.println("Server : "+servermsg);

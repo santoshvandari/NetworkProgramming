@@ -13,7 +13,7 @@ class ClientCode{
             while(true){
                 System.out.print("Enter a Message(e for Exit): ");
                 clientmsg = sc.nextLine();
-                if (clientmsg=="E" || clientmsg == "e"){
+                if (clientmsg.equalsIgnoreCase("e")){
                     break;
                 }
                 dos.writeUTF(clientmsg);
