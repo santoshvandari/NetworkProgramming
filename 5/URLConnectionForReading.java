@@ -17,7 +17,6 @@ public class URLConnectionForReading {
             while((c=reader.read())!=-1){
                 System.out.print((char)c);
             }
-
         }catch(Exception ex){
             System.out.println(ex);
         }
