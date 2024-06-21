@@ -1,0 +1,85 @@
+Unit 2:
+1. WAP that prints the address of 'www.tufohss.edu.np'.
+2. WAP that finds the address of local machine.
+3. WAP that find the canonical host name of the given address.
+4. WAP to find the IP Address and Host Name of a local machine. 
+5. WAP to get IP Address of IPV4 & IPV6 of a given Web Address.
+6. WAP for determining whether an IP Address is IPV4 or IPV6.
+7. WAP for testing the Characteristics of an IP Address.
+8. WAP that compares the domain names 'www.ibiblio.org' and 'helios.ibiblio.org'.
+9. WAP that list all the network interface.
+10. WAP to use of Network Interface using getter method.
+11. WAP to check remote system is reachable or not.
+12. WAP that demonstrate the Spam Check.
+13. WAP to process Web Server log file. 
+
+
+Unit 3:
+1. WAP that split the part of URL.
+2. WAP that check which protocol does a virtual machine support or not.
+3. WAP to download a webpage of a given web address.
+4. WAP to download an objects.
+5. WAP to demonstrate x-www-form-urlencoded String. 
+6. WAP to communicate with server side program through get.
+7. WAP to resolve relative URI.
+
+Unit 5:
+1. WAP to download a Webpage using URL Connection. 
+2. WAP to read the Value of HTTP Header Fields.
+3. WAP to print entire HTTP HEaders.
+4. WAP for HTTP request Method.
+5. WAP to print URL of a URL Connection to "tufohss.edu.np".
+6. WAP to get a time when a URI was last change. 
+
+Unit 6:
+1. WAP of Socket to Client. 
+
+
+Unit 7:
+1. WAP of Socket for Server.
+
+Unit 8:
+1. WAP for Creating Secure Socket with "tufohss.edu.np".
+2. WAP for Creating Server Socket and Secure Client Socket. 
+
+Unit 9:
+1. WAP for UDP Client. 
+2. WAP for UDP Server.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
