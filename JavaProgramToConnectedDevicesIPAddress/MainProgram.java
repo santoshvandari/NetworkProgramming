@@ -1,3 +1,5 @@
+// Program to get Connected Devices IP address of a Same Network.
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
