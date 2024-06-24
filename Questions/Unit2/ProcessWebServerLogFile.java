@@ -19,7 +19,7 @@ public class ProcessWebServerLogFile {
                 // Ask DNS for the hostname and print it out
                 try {
                     InetAddress address = InetAddress.getByName(ip);
-                    System.out.println(address.getHostName() + theRest);
+                    System.out.println(address.getHostName()+ theRest);
                 } catch (UnknownHostException ex) {
                     System.out.println(ex);
                 }
