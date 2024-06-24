@@ -1,3 +1,4 @@
+// 10. WAP to use of Network Interface using getter method
 import java.net.*;
 import java.util.Enumeration;
 public class useOfNetworkInterface {

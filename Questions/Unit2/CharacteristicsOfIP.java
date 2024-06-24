@@ -1,3 +1,4 @@
+// 7. WAP for testing the Characteristics of an IP Address.
 import java.net.*;
 public class CharacteristicsOfIP {
     public static void main(String[] args) {
