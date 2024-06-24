@@ -1,4 +1,3 @@
-package Unit2;
 // 3. WAP that find the canonical host name of the given address.
 
 import java.net.*;
