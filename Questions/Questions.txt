@@ -10,10 +10,10 @@ Unit 2:
 9. WAP that list all the network interface.
 10. WAP to use of Network Interface using getter method.
 11. WAP to check remote system is reachable or not.
+12. WAP that demonstrate the Spam Check.
 
 
 Not Done From Here 
-12. WAP that demonstrate the Spam Check.
 13. WAP to process Web Server log file. 
 
 
