@@ -1,8 +1,5 @@
 // 5. WAP to get IP Address of IPV4 & IPV6 of a given Web Address.
-
-
 import java.net.*;
-
 public class CheckIPV4OrIPV6 {
     public static void main(String[] args) {
         try {

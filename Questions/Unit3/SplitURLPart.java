@@ -1,6 +1,4 @@
 // 1. WAP that split the part of URL.
-
-
 import java.net.*;
 public class SplitURLPart {
     public static void main(String[] args) {

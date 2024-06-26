@@ -6,8 +6,6 @@ public class PrintURLOfURLConnection {
         try {
             URL u = new URL(url);
             System.out.println("URL : "+u);
-
-            
         } catch (Exception ex) {
             System.out.println(ex);
         }

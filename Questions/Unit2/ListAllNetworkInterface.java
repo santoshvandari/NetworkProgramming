@@ -1,8 +1,6 @@
 // 9. WAP that list all the network interface.
-
 import java.net.*;
 import java.util.Enumeration;
-
 public class ListAllNetworkInterface {
     public static void main(String[] args) {
         try {

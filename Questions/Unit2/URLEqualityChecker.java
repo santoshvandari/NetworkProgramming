@@ -1,8 +1,5 @@
 // 8. WAP that compares the domain names 'www.ibiblio.org' and 'helios.ibiblio.org'.
-
-
 import java.net.*;
-
 public class URLEqualityChecker {
     public static void main(String[] args) {
         try {

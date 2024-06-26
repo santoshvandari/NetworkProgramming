@@ -1,6 +1,5 @@
 // 2. WAP to read the Value of HTTP Header Fields. 
 import java.net.*;
-
 public class ValueOfHTTPHeader {
     public static void main(String[] args) {
         try {

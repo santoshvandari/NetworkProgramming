@@ -1,5 +1,4 @@
 // 12. WAP that demonstrate the Spam Check.
-
 import java.net.*;
 public class SpamCheckIP {
     private static boolean CheckSpam(String ip){

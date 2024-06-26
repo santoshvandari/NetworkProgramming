@@ -1,8 +1,6 @@
 // 13. WAP to process Web Server log file. 
-
 import java.io.*;
 import java.net.*;
-
 public class ProcessWebServerLogFile {
     public static void main(String[] args) {
         String file="logfiles.txt";
