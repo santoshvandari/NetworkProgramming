@@ -5,7 +5,6 @@ public class CheckProtocol {
         try {
             URL url = new URL("https://google.com");
             System.out.println("Protocol : "+url.getProtocol());
-            
         } catch (Exception ex) {
             System.out.println(ex);
         }
