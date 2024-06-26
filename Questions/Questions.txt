@@ -27,7 +27,7 @@ Unit 5:
 1. WAP to download a Webpage using URL Connection. 
 2. WAP to read the Value of HTTP Header Fields.
 3. WAP to print entire HTTP Headers.
-4. WAP for HTTP request Method.
+4. WAP for HTTP request Method. - Not Done
 5. WAP to print URL of a URL Connection to "tufohss.edu.np".
 6. WAP to get a time when a URI was last change. 
 
