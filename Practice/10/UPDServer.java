@@ -8,6 +8,7 @@ public class UPDServer {
             InetAddress ip = InetAddress.getByName("localhost");
             DatagramPacket dp = new DatagramPacket(str.getBytes(),str.length(),ip,3000);
             ds.send(dp);
+            ds.close();
         } catch (Exception ex) {
             System.out.println(ex);
         }
