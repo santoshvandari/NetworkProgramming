@@ -10,7 +10,6 @@ public class UDPClient {
             String message = new String(dp.getData(),0,dp.getLength());
             System.out.println(message);
             ds.close();
-
         } catch (Exception ex) {
             System.out.println(ex);
         }
