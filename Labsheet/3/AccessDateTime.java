@@ -12,7 +12,6 @@ public class AccessDateTime {
             while ((line = br.read()) != -1) {
                 System.out.print((char) line);
             }
-            System.out.println();
         }catch (IOException e) {
             System.out.println(e);
         }

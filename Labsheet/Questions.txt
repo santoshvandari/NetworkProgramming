@@ -1,0 +1,8 @@
+1. Program to manipulate the IP address of a system.
+2. Program to obtain the information about the (a) Host (b)Port (c)Protocol
+3. Program to access daytime service from server using socket.
+4. Program to get remote and local socket address.
+5. Program to find port No. running on server.
+6. Program to read the source Code of the web  page.
+7. Program to create Socket for sending and receiving data.
+8. RMI Client & Server Side
