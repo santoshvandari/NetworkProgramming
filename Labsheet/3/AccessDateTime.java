@@ -1,5 +1,5 @@
 // Program to Access daytime service from server using Socket.
-
+// 3. Program to access daytime service from server using socket.
 import java.net.*;
 import java.io.*;
 

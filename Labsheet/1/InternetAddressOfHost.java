@@ -5,7 +5,7 @@ class InternetAddressOfHost{
     public static void main(String args[]){
         try{
             InetAddress inet = InetAddress.getByName("www.bhandari-santosh.com.np");
-            System.out.println("IP of this System = "+inet);
+            System.out.println("IP : "+inet.getHostAddress());
         }catch(Exception ex){
             System.out.println(ex);
         }
