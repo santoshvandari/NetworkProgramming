@@ -3,7 +3,7 @@ import java.io.*;
 import java.net.*;
 public class DownloadWebPage {
     public static void main(String[] args) {
-        String url ="https://bhandari-santosh.com.np";
+        String url ="https://tufohss.edu.np";
         try {
             URL u = new URL(url);
             BufferedReader bf = new BufferedReader(new InputStreamReader(u.openStream()));
